@@ -6,6 +6,7 @@ This is a submission for Spring 2021 - EECS 448: Lab 8
 The following exercises have been published
 
 
+
 Exercise 1: Password validator
 
 Create a webpage that allows the user to enter a password two times in order to validate it. 
@@ -25,6 +26,7 @@ Webpage content:
 			▪ the passwords are not at least 8 characters long
 
 
+
 Exercise 2: Slide show!
 
 Create a new webpage that has a single img tag and two buttons labeled “previous” and “next”.
@@ -40,6 +42,7 @@ Your slideshow should:
 	• wrap around to the end if I keep pushing previous
   
 	• force the images to be all the same size regardless of the original image files' dimensions
+
 
 
 Exercise 3: Personal Profile
@@ -63,6 +66,7 @@ CSS Requirements:
 	• The page should not induce seizures or headaches - in other words, mind the color pallet you choose
   
 	• All text should be easy to read
+
 
 
 Exercise 4: CSS Manipulation
