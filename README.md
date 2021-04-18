@@ -3,7 +3,8 @@
 This is a submission for Spring 2021 - EECS 448: Lab 8
 
 
-The following exercises have been published
+The following exercises have been published:
+
 
 
 
