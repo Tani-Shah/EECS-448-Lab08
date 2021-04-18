@@ -12,11 +12,11 @@ Create a webpage that allows the user to enter a password two times in order to 
 
 Webpage content:
 
-  • Two password fields
+	• Two password fields
 
 		o first to enter the password and a second to verify it
 
-  • A button labelled "Validate" that alerts one of the following messages:
+	• A button labelled "Validate" that alerts one of the following messages:
 
 		o Display informative error message if any of the following occur:
     
